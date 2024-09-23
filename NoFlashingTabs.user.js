@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         No flashing tabs
+// @name         No Flashing Tabs
 // @namespace    https://stackoverflow.com/questions/36740937/how-do-i-prevent-a-page-and-tabs-document-title-from-changing
 // @homepage     https://github.com/ghoulatsch
 // @version      1.0
